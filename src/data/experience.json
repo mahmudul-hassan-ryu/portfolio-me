@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "role": "IT Support Specialist",
+      "company": "JustGo",
+      "period": "Oct 2024 \u2013 Present \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Administered user accounts, groups, and access policies using Active Directory and Azure AD.",
+        "Managed Office 365 services including Exchange Online, SharePoint, Teams, and licensing.",
+        "Oversaw Google Workspace administration for provisioning and app configuration.",
+        "Delivered global technical support across hardware, software, and cloud services.",
+        "Performed advanced troubleshooting on network and system-related issues to ensure minimal downtime.",
+        "Provisioned devices and configured access permissions for new hires.",
+        "Implemented IT solutions aligned with business goals to improve operations.",
+        "Monitored infrastructure health and performed proactive maintenance."
+      ]
+    },
+    {
+      "role": "IT Executive",
+      "company": "GasMin Limited",
+      "period": "Jun 2023 \u2013 Sep 2024 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Monitored and maintained computer systems and networks.",
+        "Researched and identified solutions to network and hardware issues.",
+        "Configured and implemented IT initiatives to deliver business value.",
+        "Provided desk-side support and resolved diverse technical problems across time zones.",
+        "Configured hardware and granted system permissions to new employees."
+      ]
+    },
+    {
+      "role": "IT Executive",
+      "company": "Paperfly",
+      "period": "Feb 2022 \u2013 May 2023 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Monitored and maintained systems and networks; diagnosed hardware issues.",
+        "Implemented IT initiatives and provided desk-side support to internal users.",
+        "Resolved multi-system technical issues for end-users across regions."
+      ]
+    },
+    {
+      "role": "Jr. IT Executive",
+      "company": "Quantanite",
+      "period": "Feb 2021 \u2013 Jan 2022 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Diagnosed and resolved technical issues; set up accounts for new users.",
+        "Collaborated with technical teams and vendors to escalate and resolve issues."
+      ]
+    },
+    {
+      "role": "Associate",
+      "company": "Quantanite",
+      "period": "Mar 2020 \u2013 Jan 2021 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Provided customer support and worked on BPO projects.",
+        "Analyzed large datasets to identify patterns and generated reports."
+      ]
+    },
+    {
+      "role": "Jr. IT Support Executive",
+      "company": "TechnoSYS Solutions Limited",
+      "period": "Jul 2019 \u2013 Jan 2020 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Diagnosed technical issues, set up user accounts, and maintained devices.",
+        "Collaborated with suppliers and technical teams to keep operations smooth."
+      ]
+    },
+    {
+      "role": "Internship Trainee",
+      "company": "Yunesco T&A Limited",
+      "period": "Jan 2019 \u2013 Jun 2019 \u00b7 Dhaka, Bangladesh \u00b7 On-site",
+      "bullets": [
+        "Researched problems, documented systems, and upgraded office equipment.",
+        "Supported lab users with hardware, software, and connectivity issues."
+      ]
+    }
+  ]
+}

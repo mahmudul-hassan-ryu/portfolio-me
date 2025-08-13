@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "title": "Identity & Access",
+      "items": [
+        "Active Directory",
+        "Azure AD",
+        "Group Policy"
+      ]
+    },
+    {
+      "title": "Productivity & Collaboration",
+      "items": [
+        "Microsoft 365",
+        "Exchange Online",
+        "SharePoint",
+        "Teams",
+        "Google Workspace"
+      ]
+    },
+    {
+      "title": "Networking & Systems",
+      "items": [
+        "Troubleshooting",
+        "DNS/DHCP",
+        "Windows Server",
+        "Endpoint Management"
+      ]
+    },
+    {
+      "title": "Automation & Tools",
+      "items": [
+        "PowerShell",
+        "Scripting Basics",
+        "Intune (basic)"
+      ]
+    }
+  ]
+}

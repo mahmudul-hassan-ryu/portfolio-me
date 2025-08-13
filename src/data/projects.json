@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "title": "Automated User Provisioning (PowerShell)",
+      "desc": "Script to create AD users, assign groups, and auto-apply M365 licenses from CSV.",
+      "links": [
+        {
+          "label": "Code (placeholder)",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "M365 License Assignment Tool",
+      "desc": "CLI utility to bulk assign and audit O365 licenses using Graph API.",
+      "links": [
+        {
+          "label": "Details",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Network Downtime Dashboard",
+      "desc": "Lightweight dashboard that parses ping logs and visualizes downtime trends.",
+      "links": [
+        {
+          "label": "Demo",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Endpoint Deployment Automation",
+      "desc": "Automates Windows setup: join domain, apply baseline policies, install agents.",
+      "links": [
+        {
+          "label": "Docs",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}

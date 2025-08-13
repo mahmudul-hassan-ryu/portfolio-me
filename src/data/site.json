@@ -1,0 +1,22 @@
+{
+  "name": "Md. Mahmudul Hassan",
+  "role": "IT Support Specialist",
+  "email": "mahmudul.genesys@gmail.com",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mahmudul00/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/mahmudul.ryu/"
+    }
+  ],
+  "typed": [
+    "Office 365 Administration",
+    "Google Workspace Management",
+    "Active Directory & Azure AD",
+    "Network Troubleshooting",
+    "IT Infrastructure Support"
+  ]
+}

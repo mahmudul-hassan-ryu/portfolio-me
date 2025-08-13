@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grid: radial-gradient(circle at 1px 1px, rgba(0,245,255,0.12) 1px, transparent 1px);
+  --grid-size: 22px 22px;
+}
+
+body {
+  background-image:
+    linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 245, 255, 0.04) 100%),
+    var(--grid);
+  background-size: auto, var(--grid-size);
+  background-position: center;
+}
+
+.card {
+  @apply bg-[#0f1625] border border-[#1a2540] rounded-2xl shadow-glow;
+}
+
+.card-hover:hover {
+  box-shadow: 0 0 25px rgba(0, 245, 255, 0.45);
+  transition: box-shadow 300ms ease;
+}
