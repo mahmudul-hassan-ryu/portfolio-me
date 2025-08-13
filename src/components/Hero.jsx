@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { default as Typed } from 'react-typed'
+import { Typed } from 'react-typed'
 import site from '../data/site.json'
 import avatar from '../assets/avatar.svg'
 
