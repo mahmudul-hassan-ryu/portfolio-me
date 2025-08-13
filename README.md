@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Md. Mahmudul Hassan — IT Support Specialist Portfolio
 
 **Tech stack:** React + Vite, Tailwind CSS, Framer Motion, react-typed.  
@@ -40,3 +41,7 @@ The default uses a demo Formspree endpoint. Create your own (free):
 
 ## License
 This custom template is provided for your personal use. You can modify and deploy freely.
+=======
+# portfolio-me
+My Portfolio
+>>>>>>> 8b699e9a32bdfcb8c8943610f068d2c9e115ce41
